@@ -1,0 +1,8 @@
+G:\2017_2018\Drielagenmodel\_hoofdstuk_4\_oefeningen\_oplossing\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\ProjectZonderNaam.exe.config
+G:\2017_2018\Drielagenmodel\_hoofdstuk_4\_oefeningen\_oplossing\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\ProjectZonderNaam.exe
+G:\2017_2018\Drielagenmodel\_hoofdstuk_4\_oefeningen\_oplossing\ProjectZonderNaam\ProjectZonderNaam\bin\Debug\ProjectZonderNaam.pdb
+G:\2017_2018\Drielagenmodel\_hoofdstuk_4\_oefeningen\_oplossing\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.csprojResolveAssemblyReference.cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_4\_oefeningen\_oplossing\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.Properties.Resources.resources
+G:\2017_2018\Drielagenmodel\_hoofdstuk_4\_oefeningen\_oplossing\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.csproj.GenerateResource.Cache
+G:\2017_2018\Drielagenmodel\_hoofdstuk_4\_oefeningen\_oplossing\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.exe
+G:\2017_2018\Drielagenmodel\_hoofdstuk_4\_oefeningen\_oplossing\ProjectZonderNaam\ProjectZonderNaam\obj\Debug\ProjectZonderNaam.pdb
