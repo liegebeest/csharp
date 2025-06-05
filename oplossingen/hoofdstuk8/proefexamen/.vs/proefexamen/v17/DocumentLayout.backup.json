@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joris.custers\\source\\repos\\proefexamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2335CC7D-4F01-4A9C-BCB5-8C52E894325A}|proefexamen.csproj|c:\\users\\joris.custers\\source\\repos\\proefexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2335CC7D-4F01-4A9C-BCB5-8C52E894325A}|proefexamen.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2335CC7D-4F01-4A9C-BCB5-8C52E894325A}|proefexamen.csproj|c:\\users\\joris.custers\\source\\repos\\proefexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2335CC7D-4F01-4A9C-BCB5-8C52E894325A}|proefexamen.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C77F56A-2BD3-4759-BE85-C6C432D7C0FB}|..\\proefexamenDA\\proefexamenDA.csproj|c:\\users\\joris.custers\\source\\repos\\proefexamenda\\rennerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEEE3B-C853-4619-95B4-BDDB621EDDBB}|..\\proefexamenBL\\proefexamenBL.csproj|c:\\users\\joris.custers\\source\\repos\\proefexamenbl\\renner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2335CC7D-4F01-4A9C-BCB5-8C52E894325A}|proefexamen.csproj|c:\\users\\joris.custers\\source\\repos\\proefexamen\\proefexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2335CC7D-4F01-4A9C-BCB5-8C52E894325A}|proefexamen.csproj|solutionrelative:proefexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFEEE3B-C853-4619-95B4-BDDB621EDDBB}|..\\proefexamenBL\\proefexamenBL.csproj|c:\\users\\joris.custers\\source\\repos\\proefexamenbl\\proefexamenbl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "proefexamen.csproj",
+              "DocumentMoniker": "C:\\Users\\joris.custers\\source\\repos\\proefexamen\\proefexamen.csproj",
+              "RelativeDocumentMoniker": "proefexamen.csproj",
+              "ToolTip": "C:\\Users\\joris.custers\\source\\repos\\proefexamen\\proefexamen.csproj",
+              "RelativeToolTip": "proefexamen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T12:45:19.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joris.custers\\source\\repos\\proefexamen\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\joris.custers\\source\\repos\\proefexamen\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:44:24.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RennerData.cs",
+              "DocumentMoniker": "C:\\Users\\joris.custers\\source\\repos\\proefexamenDA\\RennerData.cs",
+              "RelativeDocumentMoniker": "..\\proefexamenDA\\RennerData.cs",
+              "ToolTip": "C:\\Users\\joris.custers\\source\\repos\\proefexamenDA\\RennerData.cs",
+              "RelativeToolTip": "..\\proefexamenDA\\RennerData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAD4vx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:18:55.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Renner.cs",
+              "DocumentMoniker": "C:\\Users\\joris.custers\\source\\repos\\proefexamenBL\\Renner.cs",
+              "RelativeDocumentMoniker": "..\\proefexamenBL\\Renner.cs",
+              "ToolTip": "C:\\Users\\joris.custers\\source\\repos\\proefexamenBL\\Renner.cs",
+              "RelativeToolTip": "..\\proefexamenBL\\Renner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:18:09.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "proefexamenBL.csproj",
+              "DocumentMoniker": "C:\\Users\\joris.custers\\source\\repos\\proefexamenBL\\proefexamenBL.csproj",
+              "RelativeDocumentMoniker": "..\\proefexamenBL\\proefexamenBL.csproj",
+              "ToolTip": "C:\\Users\\joris.custers\\source\\repos\\proefexamenBL\\proefexamenBL.csproj",
+              "RelativeToolTip": "..\\proefexamenBL\\proefexamenBL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-27T12:03:34.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\joris.custers\\source\\repos\\proefexamen\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\joris.custers\\source\\repos\\proefexamen\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:01:51.8Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
